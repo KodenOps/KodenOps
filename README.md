@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwapelumi
-- 👀 I’m interested in both Software Engineering which means I build and manage applications
+- 👀 I’m interested in Software Engineering which means I build and manage applications. I also do side quests in Product Designing and I kind of a badass with Figma
 - 🌱 I’m currently learning how to create solutions with ReactJS/NextJS and Typescript
 - 💞️ I’m looking to collaborate with other engineers within the capacity of a Frontend Web Development or DevOps
 - 📫 How to reach me / femifadiya.segun@gmail.com
